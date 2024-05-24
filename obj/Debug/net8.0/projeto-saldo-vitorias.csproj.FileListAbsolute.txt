@@ -1,0 +1,14 @@
+E:\Projetos\projeto-saldo-vitorias\bin\Debug\net8.0\projeto-saldo-vitorias.exe
+E:\Projetos\projeto-saldo-vitorias\bin\Debug\net8.0\projeto-saldo-vitorias.deps.json
+E:\Projetos\projeto-saldo-vitorias\bin\Debug\net8.0\projeto-saldo-vitorias.runtimeconfig.json
+E:\Projetos\projeto-saldo-vitorias\bin\Debug\net8.0\projeto-saldo-vitorias.dll
+E:\Projetos\projeto-saldo-vitorias\bin\Debug\net8.0\projeto-saldo-vitorias.pdb
+E:\Projetos\projeto-saldo-vitorias\obj\Debug\net8.0\projeto-saldo-vitorias.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\projeto-saldo-vitorias\obj\Debug\net8.0\projeto-saldo-vitorias.AssemblyInfoInputs.cache
+E:\Projetos\projeto-saldo-vitorias\obj\Debug\net8.0\projeto-saldo-vitorias.AssemblyInfo.cs
+E:\Projetos\projeto-saldo-vitorias\obj\Debug\net8.0\projeto-saldo-vitorias.csproj.CoreCompileInputs.cache
+E:\Projetos\projeto-saldo-vitorias\obj\Debug\net8.0\projeto-saldo-vitorias.dll
+E:\Projetos\projeto-saldo-vitorias\obj\Debug\net8.0\refint\projeto-saldo-vitorias.dll
+E:\Projetos\projeto-saldo-vitorias\obj\Debug\net8.0\projeto-saldo-vitorias.pdb
+E:\Projetos\projeto-saldo-vitorias\obj\Debug\net8.0\projeto-saldo-vitorias.genruntimeconfig.cache
+E:\Projetos\projeto-saldo-vitorias\obj\Debug\net8.0\ref\projeto-saldo-vitorias.dll
